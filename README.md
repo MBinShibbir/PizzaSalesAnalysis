@@ -45,5 +45,6 @@ Contributions are welcome! Feel free to open an issue for any suggestions or imp
 
 ## Acknowledgments
 
-- [YouTube Video Link of 'Data Tutorials']([link-to-powerpoint-file](https://www.youtube.com/watch?v=V-s8c6jMRN0&t=8716s)https://www.youtube.com/watch?v=V-s8c6jMRN0&t=8716s)
+- [YouTube Video Link of 'Data Tutorials'](https://www.youtube.com/watch?v=V-s8c6jMRN0&t=8716s)
+  
 
