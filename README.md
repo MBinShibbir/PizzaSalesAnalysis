@@ -18,7 +18,7 @@
 - **PizzaSalesReport.pptx**: Detailed PowerPoint presentation with comprehensive analysis and insights.
 - **PIZZA SALES SQL QUERIES.docx**: Document containing SQL queries used to extract data.
 - **pizza_sales.csv**: Dataset used for analysis.
-- **Previous Dashboard 1.png** and **Previous Dashboard 2.png**: Images of previous visualizations for comparison.
+- **Comparison.pdf**: Images of previous and rebuilt visualizations for comparison.
 
 ## Installation
 
@@ -37,7 +37,7 @@
    - Refer to PizzaSalesReport.pptx for a detailed analysis report.
    - Access PIZZA SALES SQL QUERIES.docx for SQL queries used.
    - Use pizza_sales.csv as the dataset for further analysis.
-   - Check Previous Dashboard images for comparison.
+   - Check Previous Dashboard images for comparison in Comparison.pdf.
 
 ## Contributing
 
